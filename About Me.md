@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="105" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3MTh6dTRmZHMyZjNnMWlmZWY3d2tvbmVvdG1hZGh0NXptNThmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
+<img align="right" height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3MTh6dTRmZHMyZjNnMWlmZWY3d2tvbmVvdG1hZGh0NXptNThmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" width="30" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" width="20" />
   <img width="20" />
